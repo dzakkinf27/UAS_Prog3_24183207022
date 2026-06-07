@@ -1,1 +1,3 @@
-# UAS_Prog3_24183207022
+Nama : Muhammad Dzakki Nur Fadhurohman
+Prodi : Pendidikan Teknologi Informasi
+Semaster/Kelas : 4/A
